@@ -25,7 +25,7 @@ const Footer = () => {
             <ul>
               <li><a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a></li>
               <li><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-              <li><a href="mailto:contact@example.com">Contact</a></li>
+              <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=akajaykote@gmail.com&su=Portfolio%20Contact&body=Hi%20Ajay,"target="_blank" rel="noopener noreferrer">Contact</a></li>
             </ul>
           </div>
         </div>
